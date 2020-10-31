@@ -1623,3 +1623,8 @@ Noida
 #### Name: [Omkar Halikar](https://github.com/Omkar-Halikar)
 - Place: Pune,India
 - Github: [Omkar Halikar] (https://github.com/Omkar-Halikar)
+
+#### Name: [Skylar Krug](http://github.com/skylarkrug)
+-Place: United States
+-Bio: Computers and school.
+-Github: [skylarkrug](http://github.com/skylarkrug)
